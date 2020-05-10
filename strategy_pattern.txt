@@ -1,0 +1,10 @@
+How it works?
+When it should be apply?
+
+Strategy Pattern:
+The strategy pattern is a behavioral design pattern that enables selecting an algorithm at runtime
+
+Advantages of the Strategy Pattern:
+It has several advantages:
+*) It’s easy to switch between different strategies in runtime because you’re using polymorphism in the interfaces.
+*) Clean code because you separate the concerns into classes
