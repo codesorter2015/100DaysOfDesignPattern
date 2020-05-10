@@ -1,0 +1,3 @@
+ Goal:
+ We could do so with the least possible impact on the existing code.
+ We could spend less time reworking code and more making the program do cooler things.
